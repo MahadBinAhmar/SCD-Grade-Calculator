@@ -27,5 +27,9 @@ This project fully implements the 5 mandatory requirements given by the instruct
 
 ## 📸 Application Screenshot
 
+<img width="807" height="741" alt="image" src="https://github.com/user-attachments/assets/8689de49-85b3-4ebb-912b-81408dd40e04" />
+<img width="548" height="372" alt="image" src="https://github.com/user-attachments/assets/4d8c37b0-8a61-4ddf-abcb-a2f4c18c6cbf" />
+<img width="528" height="367" alt="image" src="https://github.com/user-attachments/assets/bfd219b2-940b-4a72-8c28-079d999314cd" />
+
 
 
